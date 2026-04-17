@@ -19,3 +19,6 @@ To evaluate the model's performances under disturbances, you can use
 bash my_eval.sh
  ```
 
+
+You can download the weight of HOVQ through the following url: [提取码: 1222](https://pan.baidu.com/s/1ZEkE26sABbeGR8eRyoXv8g)
+
